@@ -4,5 +4,5 @@ how to add folders
 1.first file of python is in _pycache
 2. all the frontend files  are in a folder name templates 
 3. and app.py in the main folder land-record-system
-and i will show the demo and the files arranged in demo only.
+
 
